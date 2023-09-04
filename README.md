@@ -5,6 +5,8 @@ A collection of tools to extract, and replace Perfect Dark Zero's audio assets f
 
 ## Prerequisites
 
+Download the tools from the Releases page on the right
+
 Have your Perfect Dark Zero Disc image extracted (via this tool https://digiex.net/threads/xbox-360-xiso-extract-best-an-easiest-xdg3-extraction-tool-with-gui-ftp.9711/)
 
 Backup any files you plan to replace or you risk losing them!
